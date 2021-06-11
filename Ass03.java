@@ -25,5 +25,66 @@ public class Ass03 {
     
 
         
+
+
+
+
+
+        //4.8
+        System.out.println('l' + 'A' + 'B' + 'a' + 'b');
+
+        //b
+        char num = (char) 40;
+        System.out.println(num);
+
+        char num1 = (char) 59;
+        System.out.println(num1);
+
+        char num2 = (char) 79;
+        System.out.println(num2);
+
+        char num3 = (char) 85;
+        System.out.println(num3);
+
+        char num4 = (char) 90;
+         System.out.println(num4);
+        //System.out.println('40' + '59' + '79' + '85' + '90');
+        char val = (char) 40;
+        System.out.println(val);
+       // char val1 = (char) 5A;
+       // System.out.println(val1);
+
+        char val2 = (char) 7l;
+        System.out.println(val2);
+
+        char val3 = (char) 72;
+        System.out.println(val3);
+
+       // char val4 = (char) 7A;
+       // System.out.println(val4);
+
+        System.out.println(Character.isDigit('a'));
+
+        //4.11 Evaluate;
+        int j = '1' + '2' * ('4' - '3') + 'b' / 'a';
+        System.out.println(j);
+       
+
+
+
+
+
+        System.out.println(" \\ " + "\" ");
+
+
+
+
+
+        float d = 1000.34f;
+int i  = (int)d;
+System.out.println(i);
+int nn = 'z';
+System.out.println(nn);
+System.out.println('l');
     }
 }
